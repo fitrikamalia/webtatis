@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#judul{
+    background-color:rgb(121, 236, 240) ;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 3px dotted white ;
+    margin-bottom: 25px;   
+}
+.media img{
+margin-top: 30px;
+margin-left: 500px;
+margin-bottom: 45px;
+/* untuk tengahin gambar */
+display: flex;
+margin: 0 auto;
+  /* ----------------------------- */
+}
+.content {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.content h2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.content h3 {
+margin: 5px;
+text-align: justify;
+padding-left: 5px;
+padding-right: 5px;
+}
+.content p {
+margin: 10px;
+text-align: justify;
+   }
+.stepbystep {
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+   
+
+
